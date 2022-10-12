@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_2"
+    tools:context=".Fragment2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/helloid"
+        android:textSize="@dimen/_30sdp"
+        android:background="#498C95"
+        android:textColor="@color/lb_tv_white"
+        android:text="Fragment2" />
+
+</FrameLayout>
